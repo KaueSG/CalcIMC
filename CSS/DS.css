@@ -1,0 +1,10 @@
+#formulario{
+    text-align: center;
+    box-shadow: 10px 5px 5px rgb(149, 148, 148);
+    border-radius: 10px;
+    width: 35%;
+}
+
+#formulario h1{
+    color: green;
+}
