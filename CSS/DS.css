@@ -1,10 +1,26 @@
-#formulario{
+body{
     text-align: center;
+}
+
+#formulario{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
     box-shadow: 10px 5px 5px rgb(149, 148, 148);
     border-radius: 10px;
     width: 35%;
+
+    padding: 5px;
+    margin-right: 600px;
+    margin-left: 450px;
+    border-radius: 10px;
+}
+
+input{
+    padding: 5px;
+    border-radius: 5px;
 }
 
 #formulario h1{
-    color: green;
+    color: aqua;
 }
